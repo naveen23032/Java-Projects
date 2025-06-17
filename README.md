@@ -15,7 +15,7 @@ Graceful handling of invalid input or payment failure.
 
 TECHNOLOGY USED:
 
-*Java (JDK 8 or above)
-*Multithreading for animation
-*Object-oriented programming
-*Console-based UI with Scanner
+Java (JDK 8 or above),
+Multithreading for animation,
+Object-oriented programming,
+Console-based UI with Scanner
